@@ -19,7 +19,7 @@ This code snippet executes the following tasks:
 
 ```json
 {
-    "Name": "TestDistributionGroup",
+    "GroupIdentity": "TestDistributionGroup",
     "Owners": [
         {
             "name": "JaneD01"
